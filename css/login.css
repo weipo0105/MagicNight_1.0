@@ -1,0 +1,46 @@
+/*logon-style*/
+
+.login_box{
+	width: 42%;
+	margin: 160px auto;
+}
+.login_box h1{
+	font-size: 30px;
+	line-height: 30px;
+	text-align: center;
+	margin-bottom: 56px;
+}
+.form_box{
+	margin-top: 27px;
+	line-height: 50px;
+	padding-left: 50px;
+}
+.form_box span{
+	font-size: 26px;
+	margin-right: 40px;
+	line-height: 50px;
+	float: left;
+}
+.form_box input{
+	width: 326px;
+	height: 46px;
+	border: 2px solid #78acda;
+	float: left;
+}
+.login_item{
+	margin-top: 40px;
+	padding-left: 85px;
+}
+.login_item a{
+	width: 106px;
+	height: 38px;
+	background: #5e9cd3;
+	border: 1px solid #386a95;
+	border-radius: 5px;
+	text-align: center;
+	color: #fff;
+	font-size: 18px;
+	line-height: 38px;
+	float: left;
+	margin: 0 57px;
+}

@@ -1,0 +1,26 @@
+/*reset*/
+
+body,ul,h1,input{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: "微软雅黑" arial;
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+input{
+	border: none;
+}
+.clearfix{
+	*zoom: 1;
+}
+.clearfix:after{
+	content: '';
+	display: block;
+	clear: both;
+}
